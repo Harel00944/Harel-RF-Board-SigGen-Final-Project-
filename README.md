@@ -52,7 +52,7 @@ Target impedance: 50 Ω
 
 Special attention was given to:
 
-Short and smooth RF routing with minimal bends and optimized transition geometry.
+Short and smooth RF routing with short traces and  i tried to optimized transition geometry.
 
  via stitching and shielding around RF traces 
 
