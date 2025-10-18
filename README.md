@@ -38,6 +38,26 @@ Controlled via SPI and GPIO from the STM32F405 MCU board
 
 Main connector: J2 – IPL1-114-01-L-D-K (28-pin dual-row header)
 
+The PCB Layout : 
+The board is implemented as a 4-layer PCB with controlled impedance routing and proper RF design practices.
+The RF traces are designed using a coplanar waveguide model, with the following key parameters:
+
+Trace width: 0.35 mm
+
+Clearance to ground polygon: 0.508 mm
+
+Target impedance: 50 Ω
+
+Special attention was given to:
+
+Short and smooth RF routing with minimal bends and optimized transition geometry.
+
+ via stitching and shielding around RF traces 
+
+Dedicated ground plane on layer 2 for refrence layer.
+
+Separation between analog/RF and digital domains to minimize interference.
+
 <img width="1735" height="674" alt="image" src="https://github.com/user-attachments/assets/4563f24b-f571-47cd-accc-e6943eab3e51" />
 <img width="1202" height="460" alt="image" src="https://github.com/user-attachments/assets/8c71c199-6dc2-464a-b2cc-a354825dadd8" />
 
