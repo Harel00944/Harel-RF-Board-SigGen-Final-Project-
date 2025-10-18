@@ -16,9 +16,9 @@ PE43711B (pSemi) — 7-bit digital step attenuator with 0.25 dB / 0.5 dB step re
 
 GVA-63+ (Mini-Circuits) — Wideband RF amplifier providing approximately 18–21 dB of gain across the band.
 
-Filter Bank (Mini-Circuits LFCG Series) — Selectable filters for harmonic suppression and signal conditioning.
+Filter Bank (Mini-Circuits ) — Selectable filters for harmonic suppression and signal conditioning.
 
-RF Switches (SKY13322-375LF) — SP4T GaAs RF switches used for routing between the filter bank, test output, and main signal path.
+RF Switches  — SP4T  RF switches used for routing between the filters in the filter bank , test output, and main signal path.
 
  Features
 
@@ -31,7 +31,6 @@ Clean, low-noise power rails with separate regulation for PLL, VCO, and amplifie
 
 SMA RF output for measurement and testing
 
-🧩 Power Architecture
 
 Powered from the main MCU controller board via 5 V 
 
