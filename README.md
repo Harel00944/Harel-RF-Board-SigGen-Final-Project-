@@ -24,7 +24,7 @@ RF Switches  — SP4T  RF switches used for routing between the filters in the f
 
  Features
 
-Output Frequency: 400 MHz – 4400 MHz
+Output Frequency:   100Mhz-4400 MHz
 
 Output Power Range: (depending on configuration and gain stage). The board is designed to generate strong continuous-wave (CW) signals for testing purposes and to serve as a local oscillator (LO) source for RF mixers in  lab
 Supports both direct RF  output and front-end chain output
