@@ -3,6 +3,8 @@ RF Front-End Board for 430 MHz–4400MHz Signal Generator. Includes ADF4351 PLL 
 This board is the second stage of the final project — an RF front-end board based on the ADF4351 PLL (Analog Device)
 It can generate RF signals up to 4.4 GHz, either routed through the RF Front-End chain or directly output for testing purposes.
 
+<img width="1202" height="460" alt="image" src="https://github.com/user-attachments/assets/8c71c199-6dc2-464a-b2cc-a354825dadd8" />
+
  Overview:
 
 The board integrates several RF functional blocks designed for controlled amplitude and signal routing across the frequency range.
@@ -59,6 +61,5 @@ Dedicated ground plane on layer 2 for refrence layer.
 Separation between analog/RF and digital domains to minimize interference.
 
 <img width="1735" height="674" alt="image" src="https://github.com/user-attachments/assets/4563f24b-f571-47cd-accc-e6943eab3e51" />
-<img width="1202" height="460" alt="image" src="https://github.com/user-attachments/assets/8c71c199-6dc2-464a-b2cc-a354825dadd8" />
 
 
